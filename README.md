@@ -65,7 +65,8 @@ pip install spidev
      - GND = GND
      - RST = GPIO23
      - 3.3v = 3v3 Power
-    ![image](https://github.com/user-attachments/assets/6fa06086-f022-42df-89c3-68cffb245242)
+    ![401236229-6fa06086-f022-42df-89c3-68cffb245242](https://github.com/user-attachments/assets/6d65ae48-2a3d-4f33-987a-308582429943)
+
 
 4) Create our first python file "reader.py":
    - Very simple code => we'll need this in order to determine the ids of our RFID cards
@@ -142,13 +143,15 @@ curl --request GET \
   - For those feeling a tad bit creative, I suggest you decorate your jukebox!
   - For example, you can print the covers of various classic video game titles/albums and stick it to your RFID cards. Don't worry, they still work ;)
 
-![20250115_172740](https://github.com/user-attachments/assets/44a30b16-654f-49d5-80bc-db3531058d84)
+![403628605-44a30b16-654f-49d5-80bc-db3531058d84](https://github.com/user-attachments/assets/9d1450ab-cb93-439c-a5b5-27340f772108)
+
 
 
   - You can also make the jukebox using a wooden, plastic or even cardboard box.
   - Here's a picture of my little jukebox! She's not the fanciest, but it's the idea that counts :b
     
-![20250115_170410](https://github.com/user-attachments/assets/48893b5f-c483-4dfb-a775-7ea1067cec8d)
+![403628569-48893b5f-c483-4dfb-a775-7ea1067cec8d](https://github.com/user-attachments/assets/3c16a5da-fd9c-4411-996a-971a6a9a6a09)
+
 
   - If you'd like to see the the jukebox in action, please watch the video on my channel: https://youtu.be/cQe-NdvQzg8 
     
