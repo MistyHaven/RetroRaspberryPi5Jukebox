@@ -3,7 +3,6 @@ A Raspberry Pi 5 jukebox that plays retro video game music by scanning a RFID ca
 
 Credits: 
 - Heavily inspired by talaexe's video "Modern Day Record Player Tutorial (RFID, Spotify API, Python, and Raspberry Pi)" over on Youtube.
-- 
 
 List of "Ingredients":
   - Female to Female wires
